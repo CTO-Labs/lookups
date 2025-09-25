@@ -157,7 +157,7 @@
   },
   {
     "name": "ChatAlt_2",
-    "value": "ChatAlt_2Icon"
+    "value": "ChatAlt2Icon"
   },
   {
     "name": "ChatAlt",
@@ -537,19 +537,19 @@
   },
   {
     "name": "MenuAlt_1",
-    "value": "MenuAlt_1Icon"
+    "value": "MenuAlt1Icon"
   },
   {
     "name": "MenuAlt_2",
-    "value": "MenuAlt_2Icon"
+    "value": "MenuAlt2Icon"
   },
   {
     "name": "MenuAlt_3",
-    "value": "MenuAlt_3Icon"
+    "value": "MenuAlt3Icon"
   },
   {
     "name": "MenuAlt_4",
-    "value": "MenuAlt_4Icon"
+    "value": "MenuAlt4Icon"
   },
   {
     "name": "Menu",
@@ -578,10 +578,6 @@
   {
     "name": "MusicNote",
     "value": "MusicNoteIcon"
-  },
-  {
-    "name": "Name",
-    "value": "NamesTxt"
   },
   {
     "name": "Newspaper",
@@ -832,8 +828,8 @@
     "value": "TrashIcon"
   },
   {
-    "name": "Trendingdown",
-    "value": "TrendingdownIcon"
+    "name": "TrendingDown",
+    "value": "TrendingDownIcon"
   },
   {
     "name": "TrendingUp",
